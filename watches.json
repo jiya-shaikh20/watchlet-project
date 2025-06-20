@@ -1,0 +1,44 @@
+[
+  {
+    "category": "men",
+    "title": "Curren Chain Steel Watch",
+    "image": "image/watch.png",
+    "description": "Perfect and maximal dial with stainless steel for inspirable personalities.",
+    "details": "Water-resistant up to 50m, quartz movement, 2-year warranty included."
+  },
+  {
+    "category": "men",
+    "title": "Gold-Stainless Steel Watch",
+    "image": "image/image.png",
+    "description": "For daily wear with accuracy.",
+    "details": "Elegant gold finish with date display and scratch-proof glass."
+  },
+  {
+    "category": "men",
+    "title": "Square Dial Watch",
+    "image": "image/watch2.png",
+    "description": "Stylish and strong stainless steel watch for daily elegance.",
+    "details": "Sapphire crystal glass with leather strap and luminous hands."
+  },
+  {
+    "category": "women",
+    "title": "Pink Leather Watch",
+    "image": "image/watch3.png",
+    "description": "Simple dial with cute background and soft leather straps.",
+    "details": "Perfect for casual wear, comes with 1 extra pink strap."
+  },
+  {
+    "category": "women",
+    "title": "White Pearl Watch",
+    "image": "image/watch4.png",
+    "description": "White dial with pearl inset and white chain, fashionable design.",
+    "details": "Crystal-lined rim, delicate casing, and minimalist face."
+  },
+  {
+    "category": "women",
+    "title": "Simple Elegant Watch",
+    "image": "image/watches5.png",
+    "description": "Simple dark pink chain watch with decent dial.",
+    "details": "Lightweight and elegant, includes matching bracelet."
+  }
+]
